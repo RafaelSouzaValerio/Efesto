@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Efesto</title>
+  <desc id="desc">Monograma E com uma chama sobre a base de uma bigorna, em âmbar e grafite.</desc>
+  <path fill="#202B36" d="M56 8H200C227 8 248 29 248 56V200C248 227 227 248 200 248H56C29 248 8 227 8 200V56C8 29 29 8 56 8Z"/>
+  <path fill="#FFB547" d="M139 30C142 53 112 54 115 74C104 71 101 60 105 51C81 70 90 104 119 105C151 107 169 76 147 52C149 66 141 71 134 73C125 59 146 52 139 30Z"/>
+  <path fill="#FFB547" d="M79 120H187V141H105V156H161V176H105V191H187V212H79Z"/>
+  <path fill="#FFE2AB" d="M49 191H79V212L61 204Z M187 191H209L197 212H187Z"/>
+</svg>

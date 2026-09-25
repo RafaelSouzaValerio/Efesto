@@ -1,0 +1,11 @@
+﻿<Project>
+  <PropertyGroup>
+    <!-- Edit this value for a manual major/minor release. build.ps1 increments the patch automatically. -->
+    <VersionPrefix>1.0.1</VersionPrefix>
+    <Version>$(VersionPrefix)</Version>
+    <AssemblyVersion>$(VersionPrefix).0</AssemblyVersion>
+    <FileVersion>$(VersionPrefix).0</FileVersion>
+    <InformationalVersion>$(VersionPrefix)</InformationalVersion>
+  </PropertyGroup>
+</Project>
+

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Forja</title>
+  <desc id="desc">Sinais de código sobre uma bigorna, em grafite e âmbar.</desc>
+  <path fill="#F2B844" d="M56 8H200C227 8 248 29 248 56V200C248 227 227 248 200 248H56C29 248 8 227 8 200V56C8 29 29 8 56 8Z"/>
+  <path fill="#202B36" d="M102 43L72 72L102 101L112 90L92 72L112 54Z M154 43L184 72L154 101L144 90L164 72L144 54Z"/>
+  <path fill="#202B36" d="M42 120H211V143H177L151 165V182L177 200V211H83V200L109 182V165H91L62 147Z"/>
+  <path fill="#FFF3D2" d="M191 90L196 101L208 106L196 111L191 122L186 111L175 106L186 101Z"/>
+</svg>
